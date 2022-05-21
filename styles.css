@@ -1,0 +1,28 @@
+/* styles */
+
+.logo {
+    border-radius: 100%;
+    background-color: blanchedalmond;
+}
+
+.pastor {
+    border-radius: 100%;
+}
+
+.fif {
+    border-radius: 100%;
+}
+
+.jif {
+    border-radius: 100%;
+}
+
+/* tag style */
+
+body {
+    background-color: #F9F3EE;
+}
+
+hr {
+    border-style: none;
+}
